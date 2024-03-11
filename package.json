@@ -1,0 +1,19 @@
+{
+  "name": "zona-testnet",
+  "version": "1.1.4",
+  "description": "share a testnet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nurfarid/zona-testnet"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurfarid/zona-testnet/issues"
+  },
+  "homepage": "https://github.com/nurfarid/zona-testnet#readme"
+}
